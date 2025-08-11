@@ -9,7 +9,7 @@
     "minimum": "11",
     "verified": "11.315"
   },
-  "manifest": "https://github.com/LucasParaiso/Quote-Your-Adventure",
+  "manifest": "https://github.com/LucasParaiso/Quote-Your-Adventure/module.json",
   "download": "https://github.com/LucasParaiso/Quote-Your-Adventure",
   "url": "https://github.com/LucasParaiso/Quote-Your-Adventure"
 }
