@@ -1,9 +1,15 @@
 {
   "name": "quote-your-adventure",
   "title": "Quote your Adventure",
-  "description": "Salve momentos épicos da sua aventura.",
+  "description": "Keep epic moments from your RPG adventure inside FoundryVTT",
   "version": "1.0.0",
-  "author": "Lucas Paraiso",
+  "authors": [
+    {
+      "name": "Lucas Paraiso",
+      "url": "https://lparaiso.com",
+      "flags": {}
+    }
+  ],
   "esmodules": ["scripts/quote-your-adventure.js"],
   "compatibility": {
     "minimum": "11",
